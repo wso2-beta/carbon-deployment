@@ -89,3 +89,4 @@ public interface Deployer {
     ArtifactType getArtifactType();
 
 }
+
