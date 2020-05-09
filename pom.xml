@@ -35,7 +35,12 @@
         <module>tests</module>
     </modules>
 
-    
+       <scm>
+        <url>https://github.com/wso2-beta/carbon-deployment.git</url>
+        <developerConnection>scm:git:https://github.com/wso2-beta/carbon-deployment.git</developerConnection>
+        <connection>scm:git:https://github.com/wso2-beta/carbon-deployment.git</connection>
+        <tag>HEAD</tag>
+    </scm>
 
     <build>
         <extensions>
