@@ -20,6 +20,7 @@ package org.wso2.carbon.webapp.ext.cxf;
 
 public class Constants {
 
+    //Hi
     public static String CARBON_CONFIG_DIR_PATH = "carbon.config.dir.path";
     public static String CARBON_CONFIG_FILE_NAME = "carbon.xml";
     public static String CARBON_HOSTNAME_ENTRY_XPATH = "//HostName";
