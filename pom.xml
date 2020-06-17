@@ -1,4 +1,4 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.wso2.carbon.deployment</groupId>
@@ -30,10 +30,10 @@
     </modules>
 
     <scm>
-        <url>https://github.com/wso2/carbon-deployment.git</url>
-        <developerConnection>scm:git:https://github.com/wso2/carbon-deployment.git</developerConnection>
-        <connection>scm:git:https://github.com/wso2/carbon-deployment.git</connection>
-        <tag>v4.7.19</tag>
+        <url>https://github.com/wso2-beta/carbon-deployment.git</url>
+        <developerConnection>scm:git:https://github.com/wso2-beta/carbon-deployment.git</developerConnection>
+        <connection>scm:git:https://github.com/wso2-beta/carbon-deployment.git</connection>
+        
     </scm>
 
     <dependencyManagement>
@@ -1475,10 +1475,8 @@
         <serp.orbit.version>1.14.1.wso2v1</serp.orbit.version>
 
         <!-- for maven release process -->
-        <project.scm.id>my-scm-server</project.scm.id>
+        
 
     </properties>
 
 </project>
-
-
