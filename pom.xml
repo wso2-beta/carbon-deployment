@@ -24,7 +24,7 @@
     <groupId>org.wso2.carbon.deployment</groupId>
     <artifactId>org.wso2.carbon.deployment.parent</artifactId>
     <packaging>pom</packaging>
-    <version>5.2.0</version>
+    <version>5.2.0.1-SNAPSHOT</version>
     <name>WSO2 Carbon Deployment - Parent</name>
 
     <modules>
@@ -462,6 +462,6 @@
         <jacoco.version>0.7.5.201505241946</jacoco.version>
         <org.eclipse.equinox.executable.version>3.5.0.v20110530-7P7NFUFFLWUl76mart</org.eclipse.equinox.executable.version>
         <maven.surefire.plugin.version>2.18.1</maven.surefire.plugin.version>
-    </properties>
+    <project.scm.id>wso2-scm-server</project.scm.id></properties>
 
 </project>
